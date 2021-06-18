@@ -6,7 +6,8 @@ namespace TrainingFullClass
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World!");
+      Console.WriteLine("Hello My World!");
+      Fields.Run app = new Fields.Run();
     }
   }
 }

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TrainingFullClass/1.0.0": {
+        "dependencies": {
+          "Fields": "1.0.0"
+        },
+        "runtime": {
+          "TrainingFullClass.dll": {}
+        }
+      },
+      "Fields/1.0.0": {
+        "runtime": {
+          "Fields.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrainingFullClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fields/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
