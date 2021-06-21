@@ -2,67 +2,58 @@
 using System.Collections.Generic;
 using System.Text;
 
-/*namespace Method
-{
-  class Bottle
-  {
-    public virtual string Color { get; set; }
-    private int num;
-    public virtual int Number
-    {
-      get { return num; }
-      set { num = value; }
-    }
-  }
-
-  class BottleCap : Bottle
-  {
-    private string capColor;
-
-    public override string Color
-    {
-      get
-      {
-        return capColor;
-      }
-      set
-      {
-        if (!string.IsNullOrEmpty(value))
-        {
-          capColor = value;
-        }
-        else
-        {
-          capColor = "Unknown";
-        }
-      }
-    }
-  }
-}
-*/
 
 namespace Method
 {
-  class Area
+  abstract class AbstractClassArea
+  {
+    internal abstract int AbstractArea(); 
+    // create abstract and empty method
+  }
+
+  class Rectangle : AbstractClassArea
+  {
+    int side;
+    internal Rectangle(int s)
+    {
+      side = s;
+    }
+
+    internal override int AbstractArea() 
+      // overide abstract method
+    {
+      return (side * side);
+    }
+  }
+
+  class BaseClassArea
   {
     protected double x, y;
-    internal Area()
+    internal BaseClassArea()
     {
 
     }
-    internal Area(double a, double  b)
+    internal BaseClassArea(double a, double  b)
     {
       this.x = a;
       this.y = b;
     }
+
     
-    internal virtual double AreaX()
+    internal virtual double AreaX() 
+      // create virtual method
     {
       return x * y;
     }
+
+    // virtual/abstract can not private
+    internal virtual int VirtualArea() 
+    {
+      return 1;
+    }
   }
 
-  class Triangle : Area
+  class Triangle : BaseClassArea
   {
     internal Triangle()
     {
@@ -72,10 +63,12 @@ namespace Method
     {
     }
 
-    sealed internal override double AreaX()
+    internal sealed override double AreaX() 
+      // overide the virtual method, and sealed, not to overide again on other child
     {
       return x * y / 2;
     }
+
   }
 
   class Pythagoras : Triangle

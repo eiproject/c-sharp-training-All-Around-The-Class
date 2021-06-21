@@ -11,3 +11,16 @@ C:\Lab Formulatrix\Fields\obj\Debug\netcoreapp3.1\Fields.csproj.CoreCompileInput
 C:\Lab Formulatrix\Fields\obj\Debug\netcoreapp3.1\Fields.dll
 C:\Lab Formulatrix\Fields\obj\Debug\netcoreapp3.1\Fields.pdb
 C:\Lab Formulatrix\Fields\obj\Debug\netcoreapp3.1\Fields.genruntimeconfig.cache
+C:\Lab Formulatrix\TrainingFullClass\Fields\bin\Debug\netcoreapp3.1\Fields.exe
+C:\Lab Formulatrix\TrainingFullClass\Fields\bin\Debug\netcoreapp3.1\Fields.deps.json
+C:\Lab Formulatrix\TrainingFullClass\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.json
+C:\Lab Formulatrix\TrainingFullClass\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingFullClass\Fields\bin\Debug\netcoreapp3.1\Fields.dll
+C:\Lab Formulatrix\TrainingFullClass\Fields\bin\Debug\netcoreapp3.1\Fields.pdb
+C:\Lab Formulatrix\TrainingFullClass\Fields\obj\Debug\netcoreapp3.1\Fields.csprojAssemblyReference.cache
+C:\Lab Formulatrix\TrainingFullClass\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\TrainingFullClass\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfo.cs
+C:\Lab Formulatrix\TrainingFullClass\Fields\obj\Debug\netcoreapp3.1\Fields.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\TrainingFullClass\Fields\obj\Debug\netcoreapp3.1\Fields.dll
+C:\Lab Formulatrix\TrainingFullClass\Fields\obj\Debug\netcoreapp3.1\Fields.pdb
+C:\Lab Formulatrix\TrainingFullClass\Fields\obj\Debug\netcoreapp3.1\Fields.genruntimeconfig.cache

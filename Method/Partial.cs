@@ -9,6 +9,7 @@ namespace Method
     internal static string color = "black";
     internal static int numberOfMonitor = 1;
     internal partial class Monitor
+      // first part
     {
       internal static void _changeColor()
       {
@@ -17,6 +18,7 @@ namespace Method
     }
 
     internal partial class Monitor
+      // second part
     {
       internal static void _addMonitor()
       {

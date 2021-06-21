@@ -41,6 +41,9 @@ namespace Fields
       var U = new User();
 
       Console.WriteLine(O.ownerNo1); // jun
+      O.TryToAccess();
+      Console.WriteLine(O.numberOfUser); // allowed, because internal
+      // Console.WriteLine(O.numberOfApple); // not allowed, because private and just protected inside User child only
       Console.WriteLine(User.mainAdministrator);
 
       // readonly test
