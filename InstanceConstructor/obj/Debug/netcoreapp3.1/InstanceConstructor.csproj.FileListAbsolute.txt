@@ -10,3 +10,4 @@ C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\obj\Debug\netcoreapp3.1
 C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\obj\Debug\netcoreapp3.1\InstanceConstructor.dll
 C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\obj\Debug\netcoreapp3.1\InstanceConstructor.pdb
 C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\obj\Debug\netcoreapp3.1\InstanceConstructor.genruntimeconfig.cache
+C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\obj\Debug\netcoreapp3.1\InstanceConstructor.csprojAssemblyReference.cache

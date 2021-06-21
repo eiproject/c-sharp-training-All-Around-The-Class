@@ -1,0 +1,13 @@
+C:\Lab Formulatrix\TrainingFullClass\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+C:\Lab Formulatrix\TrainingFullClass\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+C:\Lab Formulatrix\TrainingFullClass\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+C:\Lab Formulatrix\TrainingFullClass\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingFullClass\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+C:\Lab Formulatrix\TrainingFullClass\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+C:\Lab Formulatrix\TrainingFullClass\Indexer\obj\Debug\netcoreapp3.1\Indexer.csprojAssemblyReference.cache
+C:\Lab Formulatrix\TrainingFullClass\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\TrainingFullClass\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+C:\Lab Formulatrix\TrainingFullClass\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\TrainingFullClass\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+C:\Lab Formulatrix\TrainingFullClass\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
+C:\Lab Formulatrix\TrainingFullClass\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache

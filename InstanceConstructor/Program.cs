@@ -21,6 +21,10 @@ namespace InstanceConstructor
       float b = 4.7F;
       Pythagoras objRes = Pythagoras.Sum(a, b);
       Console.WriteLine($"Pythagoras sum result from  {a} and {b} is: { objRes.C }");
+
+      // This 
+      Hydrolic H = new Hydrolic(200.3F, 4.1F);
+      Console.WriteLine($"Power is { H.Power }N");
     }
   }
   class Program
