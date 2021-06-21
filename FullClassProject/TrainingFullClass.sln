@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingFullClass", "TrainingFullClass.csproj", "{FCBB184F-614A-465A-90EC-545B99DBEC02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainingFullClass", "TrainingFullClass.csproj", "{FCBB184F-614A-465A-90EC-545B99DBEC02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fields", "..\Fields\Fields.csproj", "{C8BB5689-F5EA-4842-8E87-79B9A957F5B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fields", "..\Fields\Fields.csproj", "{C8BB5689-F5EA-4842-8E87-79B9A957F5B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "..\Method\Method.csproj", "{47AC1B62-A106-467D-8866-9A45B09243BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method", "..\Method\Method.csproj", "{47AC1B62-A106-467D-8866-9A45B09243BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstanceConstructor", "..\InstanceConstructor\InstanceConstructor.csproj", "{37E775B6-CD69-4DDF-B71E-70A2C6986EC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{47AC1B62-A106-467D-8866-9A45B09243BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47AC1B62-A106-467D-8866-9A45B09243BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47AC1B62-A106-467D-8866-9A45B09243BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E775B6-CD69-4DDF-B71E-70A2C6986EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E775B6-CD69-4DDF-B71E-70A2C6986EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E775B6-CD69-4DDF-B71E-70A2C6986EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E775B6-CD69-4DDF-B71E-70A2C6986EC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

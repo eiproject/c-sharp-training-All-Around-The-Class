@@ -1,0 +1,12 @@
+C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\bin\Debug\netcoreapp3.1\InstanceConstructor.exe
+C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\bin\Debug\netcoreapp3.1\InstanceConstructor.deps.json
+C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\bin\Debug\netcoreapp3.1\InstanceConstructor.runtimeconfig.json
+C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\bin\Debug\netcoreapp3.1\InstanceConstructor.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\bin\Debug\netcoreapp3.1\InstanceConstructor.dll
+C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\bin\Debug\netcoreapp3.1\InstanceConstructor.pdb
+C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\obj\Debug\netcoreapp3.1\InstanceConstructor.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\obj\Debug\netcoreapp3.1\InstanceConstructor.AssemblyInfo.cs
+C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\obj\Debug\netcoreapp3.1\InstanceConstructor.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\obj\Debug\netcoreapp3.1\InstanceConstructor.dll
+C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\obj\Debug\netcoreapp3.1\InstanceConstructor.pdb
+C:\Lab Formulatrix\TrainingFullClass\InstanceConstructor\obj\Debug\netcoreapp3.1\InstanceConstructor.genruntimeconfig.cache
