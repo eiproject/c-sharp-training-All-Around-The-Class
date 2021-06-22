@@ -30,4 +30,27 @@ namespace Indexer
     internal void set_Item(int wordNum, string value) { words[wordNum] = value; }
   }
 
+  class Circle
+  {
+    internal double Area { get; } = 0;
+    const double Pi = Math.PI;
+    internal Circle(double r)
+    {
+      Area = Pi * r * r;
+    }
+
+    
+  }
+
+  class Pencil
+  {
+    internal static string Color = "black";
+    internal static Pencil ThePencil= new Pencil();
+    /*internal static string Color = "green";*/
+
+    internal Pencil()
+    {
+      Console.WriteLine($"Color: {Color}");
+    }
+  }
 }

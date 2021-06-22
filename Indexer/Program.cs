@@ -2,9 +2,9 @@
 
 namespace Indexer
 {
-  class Run
+  public class Run
   {
-    internal Run()
+    public Run()
     {
       // string Index
       StringIndexer S = new StringIndexer();
@@ -18,6 +18,15 @@ namespace Indexer
       /*Console.WriteLine($"{Se[0]} - {Se[1]} - {Se[2]} - {Se[3]}");*/
       Se.set_Item(3, "class");
       Console.WriteLine($"{Se.get_Item(0)} - {Se.get_Item(1)} - {Se.get_Item(2)} - {Se.get_Item(3)}");
+
+      // constant
+      double theR = 10.8;
+      Circle C = new Circle(theR);
+      Console.WriteLine(C.Area);
+
+      // static constructor
+      Pencil P1 = Pencil.ThePencil;
+      Console.WriteLine(P1);
     }
   }
   class Program

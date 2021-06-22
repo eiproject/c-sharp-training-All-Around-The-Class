@@ -2,8 +2,6 @@
 
 namespace Fields
 {
-  
-  
   class Laptop
   {
     string Owner;
@@ -16,8 +14,7 @@ namespace Fields
 
     }
   }
-
-  
+    
   public class Run
   {
     internal int numOfError = 0;
@@ -59,6 +56,7 @@ namespace Fields
 
     }
   }
+  
   class Program
   {
     static void Main(string[] args)

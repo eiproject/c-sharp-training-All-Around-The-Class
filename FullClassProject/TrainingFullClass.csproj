@@ -7,6 +7,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Fields\Fields.csproj" />
+    <ProjectReference Include="..\Indexer\Indexer.csproj" />
+    <ProjectReference Include="..\InstanceConstructor\InstanceConstructor.csproj" />
+    <ProjectReference Include="..\Method\Method.csproj" />
   </ItemGroup>
 
 </Project>

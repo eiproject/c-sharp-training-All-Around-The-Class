@@ -11,6 +11,36 @@
         "runtime": {
           "bin/placeholder/Fields.dll": {}
         }
+      },
+      "Indexer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Indexer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Indexer.dll": {}
+        }
+      },
+      "InstanceConstructor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/InstanceConstructor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InstanceConstructor.dll": {}
+        }
+      },
+      "Method/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Method.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Method.dll": {}
+        }
       }
     }
   },
@@ -19,11 +49,29 @@
       "type": "project",
       "path": "../Fields/Fields.csproj",
       "msbuildProject": "../Fields/Fields.csproj"
+    },
+    "Indexer/1.0.0": {
+      "type": "project",
+      "path": "../Indexer/Indexer.csproj",
+      "msbuildProject": "../Indexer/Indexer.csproj"
+    },
+    "InstanceConstructor/1.0.0": {
+      "type": "project",
+      "path": "../InstanceConstructor/InstanceConstructor.csproj",
+      "msbuildProject": "../InstanceConstructor/InstanceConstructor.csproj"
+    },
+    "Method/1.0.0": {
+      "type": "project",
+      "path": "../Method/Method.csproj",
+      "msbuildProject": "../Method/Method.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Fields >= 1.0.0"
+      "Fields >= 1.0.0",
+      "Indexer >= 1.0.0",
+      "InstanceConstructor >= 1.0.0",
+      "Method >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -59,6 +107,15 @@
           "projectReferences": {
             "C:\\Lab Formulatrix\\TrainingFullClass\\Fields\\Fields.csproj": {
               "projectPath": "C:\\Lab Formulatrix\\TrainingFullClass\\Fields\\Fields.csproj"
+            },
+            "C:\\Lab Formulatrix\\TrainingFullClass\\Indexer\\Indexer.csproj": {
+              "projectPath": "C:\\Lab Formulatrix\\TrainingFullClass\\Indexer\\Indexer.csproj"
+            },
+            "C:\\Lab Formulatrix\\TrainingFullClass\\InstanceConstructor\\InstanceConstructor.csproj": {
+              "projectPath": "C:\\Lab Formulatrix\\TrainingFullClass\\InstanceConstructor\\InstanceConstructor.csproj"
+            },
+            "C:\\Lab Formulatrix\\TrainingFullClass\\Method\\Method.csproj": {
+              "projectPath": "C:\\Lab Formulatrix\\TrainingFullClass\\Method\\Method.csproj"
             }
           }
         }

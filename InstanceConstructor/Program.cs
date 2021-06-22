@@ -2,9 +2,9 @@
 
 namespace InstanceConstructor
 {
-  class Run
+  public class Run
   {
-    internal Run(){
+    public Run(){
       // Overloading constructor 
       Inventory I1 = new Inventory();
       Inventory I2 = new Inventory(
